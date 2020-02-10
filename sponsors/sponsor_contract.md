@@ -26,7 +26,7 @@ moving forward, will be available to founding sponsors before anyone else.
 
 The conference will be a single-track conference with slots ranging from 5-60
 minutes. We aim for all presentations being conducted in English, as we aim to
-include all Copenhagen-based IT and information security enthusiasts and
+include all Aarhus-based IT and information security enthusiasts and
 professionals. However, if a given presenter is more comfortable doing his or
 her talk in Danish, BSides Aarhus will accommodate those presenters. There
 will be opportunities during breaks for the sponsors to interact with the
