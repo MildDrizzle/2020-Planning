@@ -5,6 +5,7 @@
 * Space for laptops with power at each seat (auditorium)
 * Seperate rooms for CTF, Villages etc.
 * Open sponsor area with drinks/coffee, pizza area.
+* Tables for the hall area
 
 # Possible Venunes in Aarhus
 
