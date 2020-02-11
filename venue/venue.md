@@ -1,9 +1,10 @@
 # Venue Planning 2020
 
 ## Venue Requriments (Wish list)
-* Room for +100 people with good projectors.
+* Room for 125-150 people with good projectors.
 * Space for laptops with power at each seat (auditorium)
-* Seperate rooms for CTF, Villages etc.
+* 3 seperate rooms for CTF, Villages etc. - class room size for 20 peoble
+* 1 room for organizers and storage - Secure area for laptops etc.
 * Open sponsor area with drinks/coffee, pizza area.
 * Tables for the hall area
 
