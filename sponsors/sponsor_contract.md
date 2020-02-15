@@ -1,4 +1,4 @@
- SPONSORSHIP CONTRACT 2020 
+ Sponsorship Contract 2020
 ===========================
 
 **Background**
