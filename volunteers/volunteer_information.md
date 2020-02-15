@@ -48,7 +48,7 @@ Registration desk volunteers will be able to watch the keynote, as registration 
 As a speaker assistant you will be responsible for making sure that a speaker is properly set up for their presentation, get them on and off stage,and giving timing cues to the speakers during the presentation to ensure they don’t go over time. You will not have to announce speakers as part of this role (unless something unforeseen happens with an emcee, then you may be asked to do so if you feel comfortable. We ask that you commit to wrangling speakers for 2 talks preferably consecutively, although you may do more if you wish. Wranglers will be needed for both tracks.
 
 ## Track & Speaker Announcer & Moderator
-Announcer’s will be responsible for introducing speakers prior to their talks. This is a separate role from Speaker Assistant, and we ask that the Track & Speaker Announcers commit to providing introductions for at least half the talks for a given track, although if they would like to do more that is fine. There will be a need for at most 2 track & speaker announcer’s for each day.
+Announcer’s will be responsible for introducing speakers prior to their talks. This is a separate role from Speaker Assistant, and we ask that the Track & Speaker Announcers commit to providing introductions for at least half the talks for a given track, although if they would like to do more that is fine. There will be a need for at most 1 track & speaker announcer’s for each day.
 
 ### Choose this role if you:
 * Are passionate about attendees having an amazing experience at BSides Aarhus.
@@ -61,18 +61,18 @@ A/V Talk Assistant will be responsible for keeping an eye on A/V hardware during
 Similar to speaker assistant, we ask that you commit to keeping an eye on A/V hardware for two talks, preferably consecutively although you may do more if you wish.
 
 For A/V setup you will be helping to setup and test the A/V hardware prior to the start of the conference.  
-This will require volunteers to show up at 08.30. Experience with A/V experience is nice but not strictly necessary.
+This will require volunteers to show up at 08.30. A/V experience is nice but not strictly necessary.
 
 ### Choose this role if you:
 * Have strong communication skills.
 * Have strong A/V technical skills.
 * Are comfortable sitting and watching a session for the entire shift.
-* Are familiar with Wirecast or other Capture Software, or have experience with shooting video cameras.
+* Are familiar Capture Software and/or have experience with shooting video cameras.
 * Able to multitask.
 * Keep cool under pressure.
 
 ## Room Setup & Workshop Support
-Workshop support people will be responsible for helping set up and tear down each workshop, as well as providing help requested by workshop runners during the workshop. Each workshop will need 2 support people.
+Workshop support people will be responsible for helping set up and tear down each workshop, as well as providing help requested by workshop runners during the workshop.
 
 ## Floating Volunteer
 Not sure what you want to do?  
@@ -81,7 +81,7 @@ Want to do all the things?
 You can elect to be a floating volunteer, and will be assigned roles on an as needed basis by the volunteer coordinator.
 
 # Volunteer Sign-up
-Sign up here - [Volunteer Sign-up](https://fqdn.tld)
+Sign up by sending an e-mail to info@bsidesaar.dk with your name and information about what role you would like to fulfill.
 
-Please reach out to volunteer@fqdn.tld with any questions.   
-Also, join us on XXXXXX for live updates & coordination.
+Please reach out to info@bsidesaar.dk with any questions.   
+Also, join us on Signal for live updates & coordination.
