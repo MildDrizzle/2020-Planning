@@ -3,19 +3,20 @@
 ## Venue Requriments (Wish list)
 * Room for 125-150 people with good projectors.
 * Space for laptops with power at each seat (auditorium)
-* 3 seperate rooms for CTF, Villages etc. - class room size for 20 peoble
-* 1 room for organizers and storage - Secure area for laptops etc.
+* 3 seperate rooms for CTF, Villages etc. - class room size for 20 people
+* 1 room for organizers, speakers and volunteers and general storage as a secure area for laptops etc.
 * Open sponsor area with drinks/coffee, pizza area.
 * Tables for the hall area
 
 # Possible Venunes in Aarhus
 
 ## Aarhus Erhvervsakademi
-
-
+EAAA has 3 possible spaces that could be used for tracks, the cantine and two auditoriums one of them being on-top of the cantine.
+This could be a good combination of two tracks and a couple of nearby class rooms.
 
 ### Pro's
 * Properly free venue sponsored by EAAA/BAAA by [Andrew Michal](https://www.eaaa.dk/kontakt/find-medarbejder/medarbejder/andrew-michal)
+* Student Community / Environment  
 
 ### Cons
 
@@ -40,8 +41,7 @@ For further information about the auditoriums see [this page](https://medarbejde
 ### Cons
 * Cost unknown
 
-## Godsbanen
-
+## Godsbanen  
 http://godsbanen.dk/lokaler-og-events/skab-events/
 
 ### Pro's
