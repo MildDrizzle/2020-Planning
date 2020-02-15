@@ -91,8 +91,8 @@ are included in the package:
     can take place. We urge our sponsors to respect the colored indicators at all
     times.
 
-**DISCLAIMER**: ​The BSides Aarhus organizers reserve the right to accept or
-decline sponsors at their own discretion. Do note the following:
+**DISCLAIMER**:  
+The BSides Aarhus organizers reserve the right to accept or decline sponsors at their own discretion. Do note the following:
 
 -   Sponsorship is not a fast lane past the Call for Presentations (CFP) process;
     sponsorship will not automatically give you a presentation slot at the
