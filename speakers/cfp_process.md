@@ -8,6 +8,7 @@
 
 ## Submission selection by BSides Aarhus CFP Committee
 * Based on quality, uniqueness and relation to the audience within the general stated CFP topics.
-* Based on a 70% technical, 20% GRC and 10% off-topic/wierd distribution.
-* Based on speaker repututation in the InfoSec Community (in good standing)
+* Based on a 70% technical, 20% GRC and 10% off-topic distribution with a prefered overweight of technical submissions.
+* Based on speaker repututation in the Infomation Security community (must in good standing)
 * Based on a topic differentiation of the submitted papers.
+* Legal evalutation (please contract the organizers if you have questions).
