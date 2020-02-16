@@ -1,5 +1,4 @@
 # BSides Aarhus 2020 Call for Papers (CFP)
-https://2020.bsidesaar.dk
 
 It is a pleasure to invite you to a speaker at BSides Aarhus 2020.  
 The InfoSec conference is organized by the [BSides Aarhus Association](https://bsidesaar.dk) and will take place at Aarhus Erhvervsakademi on the 29th of August.
