@@ -1,33 +1,60 @@
-#BSides Aarhus 2020
-Date of the conference
-Link to the conference website
+# BSides Aarhus 2020 Call for Papers (CFP)
+https://2020.bsidesaar.dk
 
-It is a pleasure to invite you to BSides Aarhus 2020.  
-The conference is organized by <Department & Organisation> and will take place in <Location> on <Conference Dates>.
-<Brief history on your organisation/conference and why should recipients submit>.
+It is a pleasure to invite you to a speaker at BSides Aarhus 2020.  
+The InfoSec conference is organized by the [BSides Aarhus Association](https://bsidesaar.dk) and will take place at Aarhus Erhvervsakademi on the 29th of August.
 
-The theme of BSides Aarhus will be <Conference Theme>.
+BSides Aarhus as an association was established in February 2020 with our first event in Auguest so this will be your opportunity to be one of the very first speakers at BSides Aarhus.
 
-##Topics of interest
-<List of Topics>
+## Topics of interest include, but are not limited to, the following:
+* Mobile Device Security
+* Virtualization, Hypervisor, and Cloud Security
+* Malware Analysis
+* Reverse Engineering
+* Exploitation Techniques
+* Rootkit Development
+* Code Analysis
+* Forensics and Anti-Forensics
+* Embedded Device Security
+* Web Application Security
+* Threat Intelligence
+* Wireless Network Security
+* Cryptography and Cryptanalysis
+* Social Engineering
+* Red Teaming/Penetration Testing
+* Government Surveillance & Law Enforcement Activities related to privacy
+* Telecommunications Security (SS7, xG, GSM, VOIP, etc)
 
-##Guide for authors
-The deadline to submit abstracts is <Submission Deadline>.
-To submit your abstract, please click on the following link: <Link to the abstract management system log in page or online form>.
-<Insert any relevant information, guidelines and links>
+## Please include the following information with your submission:
+* Speaker’s Name
+* Speaker’s Title
+* Speaker’s Company
+* Title of Presentation
+* 100-word Description of Presentation
+* 3-5 Bullets, explaining what the attendee will learn from presentation (learning objectives)
+* Speaker’s Color Photo (hi-resolution)
+* Speaker’s Bio, including previous conference speaking/presentation experience
+* The Information and the presentation can be sent in Danish or English, as the presentation, we recommend to produce english version of the slides anyway to facilitate the information sharing.
+* If the speaker wants to opt-out of video recording of the speaker session.
 
-##Important Dates
-Deadline for submission: < Deadline for submission>
-Notification of acceptance: <Date of Notification of acceptance>
-Deadline for final paper submission: < Deadline for final paper submission>
+## Important Dates
+Deadline for submission: 1st of July 2020
+Notification of acceptance: 14th of July 2020
+Deadline for final paper submission: 1st of August 2020
 
-##Organising committee:
-<Roles and names of the organising committee>
+All subbmissions and questions about submissions should be emailed to [info@bsidesaar.dk](mailto:info@bsidesaar.dk)
 
-For any enquiries regarding the programme, please contact: <Email Address>
-For all general enquiries, please contact: <Email Address>
+The CFP process for speaker selection can be read here:
+xxxxxxxxxxxxxxxxxxxxxx
 
-We look forward to seeing you at <Conference Name>
+## CFP 2020 committee:
+* David Thejl-Clayton
+* Kristian Møller Bodeholt
+* Tobias Evars Lauridsen
+* Dennis Perto
+* Jesper Kastoft Bertelsen
 
-#Sincerely,
-<Name of the Chair>
+We look forward to seeing you at BSides Aarhus 2020!
+
+# Sincerely,
+The BSides Aarhus Organizers
