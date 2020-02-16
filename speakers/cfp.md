@@ -37,9 +37,9 @@ BSides Aarhus as an association was established in February 2020 with our first 
 * If the speaker wants to opt-out of video recording of the speaker session.
 
 ## Important Dates
-Deadline for submission: 1st of July 2020
-Notification of acceptance: 14th of July 2020
-Deadline for final paper submission: 1st of August 2020
+* Deadline for submission: 1st of July 2020
+* Notification of acceptance: 14th of July 2020
+* Deadline for final paper submission: 1st of August 2020
 
 All subbmissions and questions about submissions should be emailed to [info@bsidesaar.dk](mailto:info@bsidesaar.dk)
 
