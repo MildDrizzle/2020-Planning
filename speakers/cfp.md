@@ -43,8 +43,8 @@ BSides Aarhus as an association was established in February 2020 with our first 
 
 All subbmissions and questions about submissions should be emailed to [info@bsidesaar.dk](mailto:info@bsidesaar.dk)
 
-The CFP process for speaker selection can be read here:
-xxxxxxxxxxxxxxxxxxxxxx
+The CFP process for speaker selection can be read here:  
+https://github.com/BSides-Aarhus/2020-Planning/blob/master/speakers/cfp_process.md
 
 ## CFP 2020 committee:
 * David Thejl-Clayton
