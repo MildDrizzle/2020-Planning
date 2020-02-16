@@ -52,7 +52,7 @@ https://github.com/BSides-Aarhus/2020-Planning/blob/master/speakers/cfp_process.
 ## CFP 2020 committee:
 * David Thejl-Clayton
 * Kristian Møller Bodeholt
-* Tobias Evars Lauridsen
+* Tobias Evar Lauridsen
 * Dennis Perto
 * Jesper Kastoft Bertelsen
 
