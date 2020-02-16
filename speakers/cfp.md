@@ -22,7 +22,10 @@ BSides Aarhus as an association was established in February 2020 with our first 
 * Social Engineering
 * Red Teaming/Penetration Testing
 * Government Surveillance & Law Enforcement Activities related to privacy
-* Telecommunications Security (SS7, xG, GSM, VOIP, etc)
+* Telecommunications Security (SS7, xG, GSM, VOIP, etc)  
+
+General off-topic topics can be allowed but needs in some way to be related to the InfoSec community.  
+Off-topic submissions could include mental/physical health, work environment, infosec related ethics etc.
 
 ## Please include the following information with your submission:
 * Speaker’s Name
