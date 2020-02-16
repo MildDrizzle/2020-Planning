@@ -3,8 +3,8 @@
 Design suggestions:
 * Small front chestpocket logo, large logo on back with slogan in a circle
 
-##Color
+## Color
 Black  
 
-##Sizes
+## Sizes
 S, M, L, XL, XXL
