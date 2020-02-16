@@ -49,7 +49,7 @@ All subbmissions and questions about submissions should be emailed to [info@bsid
 The CFP process for speaker selection can be read here:  
 https://github.com/BSides-Aarhus/2020-Planning/blob/master/speakers/cfp_process.md
 
-## CFP 2020 committee:
+## CFP 2020 committee
 * David Thejl-Clayton
 * Kristian Møller Bodeholt
 * Tobias Evar Lauridsen
