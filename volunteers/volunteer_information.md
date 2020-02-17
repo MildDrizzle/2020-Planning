@@ -12,10 +12,8 @@ Volunteering is a great way to get involved with the local security scene and co
 ## What tasks need to be done?
 
 * Registration / Information Desk
-* Speaker Assistant
-* Track & Speaker Announcer & Moderator
-* A/V Talk Assistant
-* A/V Setup
+* Track Speaker Announcer & Moderator
+* A/V Talk Assistant & Setup
 * Room Setup & Workshop Support
 * Floating Volunteer
 
@@ -43,9 +41,6 @@ Registration desk volunteers will be able to watch the keynote, as registration 
 * Have strong communication skills.
 * Have strong customer service skills.
 * Keep cool under pressure.
-
-## Speaker Assistant
-As a speaker assistant you will be responsible for making sure that a speaker is properly set up for their presentation, get them on and off stage,and giving timing cues to the speakers during the presentation to ensure they don’t go over time. You will not have to announce speakers as part of this role (unless something unforeseen happens with an emcee, then you may be asked to do so if you feel comfortable. We ask that you commit to wrangling speakers for 2 talks preferably consecutively, although you may do more if you wish. Wranglers will be needed for both tracks.
 
 ## Track & Speaker Announcer & Moderator
 Announcer’s will be responsible for introducing speakers prior to their talks. This is a separate role from Speaker Assistant, and we ask that the Track & Speaker Announcers commit to providing introductions for at least half the talks for a given track, although if they would like to do more that is fine. There will be a need for at most 1 track & speaker announcer’s for each day.
