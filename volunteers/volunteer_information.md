@@ -1,4 +1,4 @@
-# Volunteer Information
+# BSides Aarhus 2020 - Volunteer Information
 If you are interested in volunteering for BSides Aarhus, please read this page about the roles available, and some of the expectation around volunteering. 
 
 You can sign up to volunteer on the bottom of this page, but please read the following first!
