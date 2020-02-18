@@ -1,4 +1,4 @@
- Sponsorship Contract 2020
+ BSides Aarhus 2020 - Sponsorship Contract
 ===========================
 
 **Background**
