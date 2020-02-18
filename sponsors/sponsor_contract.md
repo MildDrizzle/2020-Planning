@@ -93,7 +93,7 @@ are included in the package:
     limited so contact BSides Aarhus organizers early for more information.)
 
 -   Each sponsor will be listed with logo on all electronic presentations as
-    well as screens around the venue if available. Company logos are to be provided in SVG, EPS, AI or similar format so that the logo can be scaled properly. Each sponsor will also be individually mentioned and thanked during the beginning and the end of the conference.
+    well as screens around the venue if available. Company logos are to be provided in SVG, EPS, AI or similar format so that the logo can be scaled properly. Logos are to be sent to no later than 14 days before the conference to be included. Each sponsor will also be individually mentioned and thanked during the beginning and the end of the conference.
 
 **DISCLAIMER**:  
 The BSides Aarhus organizers reserve the right to accept or decline sponsors at their own discretion.  
