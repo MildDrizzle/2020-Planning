@@ -96,7 +96,9 @@ are included in the package:
     well as screens around the venue if available. Company logos are to be provided in SVG, EPS, AI or similar format so that the logo can be scaled properly. Each sponsor will also be individually mentioned and thanked during the beginning and the end of the conference.
 
 **DISCLAIMER**:  
-The BSides Aarhus organizers reserve the right to accept or decline sponsors at their own discretion. Do note the following:
+The BSides Aarhus organizers reserve the right to accept or decline sponsors at their own discretion.  
+
+Do note the following:  
 
 -   Sponsorship is not a fast lane past the Call for Presentations (CFP) process;
     sponsorship will not automatically give you a presentation slot at the
