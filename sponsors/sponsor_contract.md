@@ -27,20 +27,28 @@ Full Company name:
 
 \_________________________________________________________________________\_
 
+CVR Number:  
+
+\_________________________________________________________________________\_
+
 Company name as you wish it to appear in written/printed/digital conference material:  
 
 \_________________________________________________________________________\_
 
 Contact person and title:   
+
 \_________________________________________________________________________\_
 
 E-mail:   
+
 \_________________________________________________________________________\_
 
 Telephone:   
+
 \_________________________________________________________________________\_
 
 Billing address:   
+
 \_________________________________________________________________________\_
 
 \_________________________________________________________________________\_
@@ -48,15 +56,19 @@ Billing address:
 \_________________________________________________________________________\_
 
 Billing E-mail address:   
+
 \_________________________________________________________________________\_
 
 Place and date:   
+
 \_________________________________________________________________________\_
 
 Authorized signature:    
+
 \_________________________________________________________________________\_
 
 Name and title:    
+
 \_________________________________________________________________________\_
 
 
@@ -81,15 +93,7 @@ are included in the package:
     limited so contact BSides Aarhus organizers early for more information.)
 
 -   Each sponsor will be listed with logo on all electronic presentations as
-    well as printed A3 posters around the venue. Each sponsor will also be
-    individually mentioned and thanked during the beginning and the end of the
-    conference.
-
--   Each sponsor will have the opportunity to participate in the job match
-    activity we have arranged for the day; job seekers will wear one color
-    indicator on their badge, employers another so this is clearly marked, and ad-hoc interviews
-    can take place. We urge our sponsors to respect the colored indicators at all
-    times.
+    well as screens around the venue if available. Company logos are to be provided in SVG, EPS, AI or similar format so that the logo can be scaled properly. Each sponsor will also be individually mentioned and thanked during the beginning and the end of the conference.
 
 **DISCLAIMER**:  
 The BSides Aarhus organizers reserve the right to accept or decline sponsors at their own discretion. Do note the following:
@@ -153,7 +157,7 @@ This contract can be terminated by either party at any time with one week notice
 An invoice will be sent to the address above upon reception of the signed contract.  
 All payments will be managed by foreningen “BSides Aarhus”.
 
-Payments are to be paid no later than 30 days before the conference dates for the contract to be valid and to be able to appear as a sponsor in the sponsoring material. Your sponsor logo will be made visible on our web page when payment has been received.
+Payments are to be paid no later than 14 days after signing this contract for this contract to be valid and to be able to appear as a sponsor in the sponsoring material. Your sponsor logo will be made visible on our web page when payment has been received.
 
 \* \* \*
 
