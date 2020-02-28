@@ -16,7 +16,8 @@ This could be a good combination of two tracks and a couple of nearby class room
 
 ### Pro's
 * Properly free venue sponsored by EAAA/BAAA by [Andrew Michal](https://www.eaaa.dk/kontakt/find-medarbejder/medarbejder/andrew-michal)
-* Student Community / Environment  
+* Student Community / Environment
+* Light rail station close by
 
 ### Cons
 
