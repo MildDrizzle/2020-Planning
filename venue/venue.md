@@ -50,6 +50,16 @@ http://godsbanen.dk/lokaler-og-events/skab-events/
 
 ### Cons
 
-## VIA University College (Center + North?)
+## DOKK1
+https://dokk1.dk/besog-dokk1/booking-af-lokaler
+
 ### Pro's
+* Free
+
+### Cons
+
+## VIA University College (Center + North)
+
+### Pro's
+
 ### Cons
