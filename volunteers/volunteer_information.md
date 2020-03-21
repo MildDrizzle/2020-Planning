@@ -31,7 +31,7 @@ Working at the registration desk you will be responsible for checking attendees 
 The bulk of registration happens on the first day.
 There are 4 shifts to registration, and we do not expect volunteers to work 4 straight shifts. 
 
-The shifts are 8:30 to 9:45 for which we will need 5 volunteers, 11 to 12:30 for which we will need 2 people, 1 to 1:30 and 2 to 3:30 which will require only 1 person. For the second day there are two shifts 8:30 to 9:45, and then 11 to 12:30 both of which will only require 2 people.
+The shifts are 08:30 to 09:45 (check-in) for which we will need 5 volunteers, 11:00 to 13:00 for which we will need 2 people, 13:00 to 15:00, 15:00 to 17:00 and 17:00 to 19:00 which will require only 1 person.
 
 Registration desk volunteers will be able to watch the keynote, as registration is shut down during this time.
 
