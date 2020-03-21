@@ -5,7 +5,7 @@
 
 BSides Aarhus is a community driven, vendor neutral information security conference based on the worldwide Security BSides concept as described on <http://securitybsides.com/>.
 
-BSides Aarhus is a newly founded conference, as it will launch on 29th of August 2020 at Business Academy Aarhus (BAAA) in Aarhus.
+BSides Aarhus is a newly founded conference, as it will launch on 22th of August 2020 at Business Academy Aarhus (BAAA) in Aarhus.
 
 The target audience is IT and information security consultants, information security officers and other security professionals combined with an interesting mix of students. This is a unique opportunity to build your brand towards a very senior and targeted security audience and some of the future security professionals. This first year, the estimated turnout is around 125 attendees and around 8 presenters. This will likely be increased already in 2021 where we will start to experiment with scaling the event towards a larger audience, more presenters, etc.
 
